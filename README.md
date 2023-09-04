@@ -16,7 +16,9 @@
 - ReactJS
 
 ### Few words about myself
-- 🌐 I`m 4-years student at university;
+- 🌐 I`m 5-years student at university;
+  * 4 year information systems and technologies, SUAI
+  * currently studying web-technologies, ITMO University
 - 🏀 I`m intrested sports, music and anime;
 - 👥 I`m looking to collaborate on all types projects;
 - 📱  How to reach me: telegram @vityapain, gmail vitayzablockyy58@gmail.com;
